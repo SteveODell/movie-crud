@@ -1,23 +1,43 @@
 {
   "movies": [
     {
-      "name": "APOCALYPSE NOW",
+      "title": "APOCALYPSE NOW",
+      "director": "Francis Ford Coppola",
+      "rating": "5",
+      "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDg1MDgzMmQtNDhlYS00MzZiLTllZGItNzliZTE1ODBiZDQwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,658,1000_AL_.jpg",
+      "year": "1979",
       "id": 1
     },
     {
-      "name": "Citizen Kane",
+      "title": "Citizen Kane",
+      "director": "Orson Welles" ,
+      "rating": "4" ,
+      "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_.jpg" ,
+      "year": "1941" ,
       "id": 2
     }
     {
-      "name": "2001: A Space Odyssey",
+      "title": "2001: A Space Odyssey",
+      "director": "Stanley Kubrik" ,
+      "rating": "4" ,
+      "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY1000_SX675_AL_.jpg" ,
+      "year": "1968" ,
       "id": 3
     },
     {
-      "name": "The Bridge on the River Kwai",
+      "title": "The Bridge on the River Kwai",
+      "director": "David Lean" ,
+      "rating": "5" ,
+      "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjE1MzU4NWEtYjhjZS00NzM3LWIyYjQtMWU1M2VkNWYzMzMwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg" ,
+      "year": "1957" ,
       "id": 4
     },
     {
-      "name": "Ragin Bull",
+      "title": "Raging Bull",
+      "director": "Martin Scorsese" ,
+      "rating": "5" ,
+      "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg1YTFlMDgtNzNhNy00ODhlLWFhMTAtOTE5MjhjNzI0NDljXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_CR0,0,668,1000_AL_.jpg"  ,
+      "year": "1980" ,
       "id": 5
     }
   ]
